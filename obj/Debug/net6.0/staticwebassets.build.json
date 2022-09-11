@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Iz9hyBkX0EfgU2NJjKAbavJsL7tM6JaO56jDxku910Q=",
+  "Hash": "le33gQfLAm9UMmmNosPzX5PHEQoEWa4BUSX9hRLHWLI=",
   "Source": "webcuidadop.App.frontend",
   "BasePath": "_content/webcuidadop.App.frontend",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/wwwroot/img/cerdito.jpeg",
+      "SourceId": "webcuidadop.App.frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/wwwroot/",
+      "BasePath": "_content/webcuidadop.App.frontend",
+      "RelativePath": "img/cerdito.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/cerdito.jpeg"
+    },
+    {
+      "Identity": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/wwwroot/img/vetporcina.jpeg",
+      "SourceId": "webcuidadop.App.frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/wwwroot/",
+      "BasePath": "_content/webcuidadop.App.frontend",
+      "RelativePath": "img/vetporcina.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/vetporcina.jpeg"
     },
     {
       "Identity": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/wwwroot/js/site.js",
