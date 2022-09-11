@@ -8,69 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = webcuidadop.App.frontend
 build_property.RootNamespace = webcuidadop.App.frontend
-build_property.ProjectDir = c:\Users\latam_1\Desktop\repo\Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46\
+build_property.ProjectDir = /Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\latam_1\Desktop\repo\Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46
+build_property.MSBuildProjectDirectory = /Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/consultas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcY29uc3VsdGFzLmNzaHRtbA==
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/consultas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvY29uc3VsdGFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/cuidados.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcY3VpZGFkb3MuY3NodG1s
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/cuidados.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvY3VpZGFkb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/historias.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcaGlzdG9yaWFzLmNzaHRtbA==
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/historias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvaGlzdG9yaWFzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/integrantes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcaW50ZWdyYW50ZXMuY3NodG1s
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/integrantes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvaW50ZWdyYW50ZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/registroc.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNccmVnaXN0cm9jLmNzaHRtbA==
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/registroc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvcmVnaXN0cm9jLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/registroprop.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNccmVnaXN0cm9wcm9wLmNzaHRtbA==
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/registroprop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvcmVnaXN0cm9wcm9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/registrovet.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNccmVnaXN0cm92ZXQuY3NodG1s
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/registrovet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvcmVnaXN0cm92ZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Opciones/visitas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3BjaW9uZXNcdmlzaXRhcy5jc2h0bWw=
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/visitas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3BjaW9uZXMvdmlzaXRhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/latam_1/Desktop/repo/Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-9yea8r1q6y
+[/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0ti8hhqck4
