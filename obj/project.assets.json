@@ -8,24 +8,25 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\latam_1\\.nuget\\packages\\": {}
+    "/Users/fampincastane/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\latam_1\\Desktop\\repo\\Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46\\webcuidadop.App.frontend.csproj",
+      "projectUniqueName": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/webcuidadop.App.frontend.csproj",
       "projectName": "webcuidadop.App.frontend",
-      "projectPath": "C:\\Users\\latam_1\\Desktop\\repo\\Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46\\webcuidadop.App.frontend.csproj",
-      "packagesPath": "C:\\Users\\latam_1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\latam_1\\Desktop\\repo\\Proyecto-Grupo-4-desarrollo-software-ciclo-3-grupo-46\\obj\\",
+      "projectPath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/webcuidadop.App.frontend.csproj",
+      "packagesPath": "/Users/fampincastane/.nuget/packages/",
+      "outputPath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\latam_1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/fampincastane/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
