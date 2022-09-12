@@ -15,6 +15,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1349696014,
 =======
         "HashCode": -2038085402,
@@ -25,6 +26,9 @@
 =======
         "HashCode": -787327611,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1545766664,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -104,6 +108,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 2125410527,
 =======
         "HashCode": 981089052,
@@ -114,6 +119,9 @@
 =======
         "HashCode": 1012057767,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 242020473,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -194,6 +202,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1006209502,
 =======
         "HashCode": -1397146769,
@@ -204,6 +213,9 @@
 =======
         "HashCode": 956166031,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1177551965,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -234,6 +246,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -247,6 +260,9 @@
 =======
         "HashCode": 2147475026,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1224717525,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -281,6 +297,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 283637154,
 =======
         "HashCode": -113493634,
@@ -291,6 +308,9 @@
 =======
         "HashCode": -1956178827,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1197097389,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -312,6 +332,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -725928595,
 =======
         "HashCode": 230179477,
@@ -322,6 +343,9 @@
 =======
         "HashCode": -2044657724,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -86412582,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -344,6 +368,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1574873105,
 =======
         "HashCode": -331570210,
@@ -354,6 +379,9 @@
 =======
         "HashCode": 648476017,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1088831553,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -452,6 +480,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -58235713,
 =======
         "HashCode": -792429534,
@@ -462,6 +491,9 @@
 =======
         "HashCode": -1568065800,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1104804940,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -561,6 +593,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1233752989,
 =======
         "HashCode": 1725043584,
@@ -571,6 +604,9 @@
 =======
         "HashCode": 1279802006,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1068080259,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -601,6 +637,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -614,6 +651,9 @@
 =======
         "HashCode": 1232391858,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -174000290,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -648,6 +688,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1403240112,
 =======
         "HashCode": 818222215,
@@ -658,6 +699,9 @@
 =======
         "HashCode": -1513831281,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -133109731,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -688,6 +732,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -701,6 +746,9 @@
 =======
         "HashCode": 1603382170,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -235189077,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -735,6 +783,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -92516100,
 =======
         "HashCode": 901400274,
@@ -745,6 +794,9 @@
 =======
         "HashCode": -558833915,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -524879082,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -775,6 +827,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -788,6 +841,9 @@
 =======
         "HashCode": 1380164784,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1769392211,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -822,6 +878,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -117042739,
 =======
         "HashCode": -1171778803,
@@ -832,6 +889,9 @@
 =======
         "HashCode": -1018363792,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -576865054,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -853,6 +913,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 904188510,
 =======
         "HashCode": 804952595,
@@ -863,6 +924,9 @@
 =======
         "HashCode": 1515523044,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1201817442,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -885,6 +949,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1035546988,
 =======
         "HashCode": -1982350777,
@@ -895,6 +960,9 @@
 =======
         "HashCode": 157022939,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 900142840,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -925,6 +993,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 553328755,
 =======
         "HashCode": 1809361694,
@@ -935,6 +1004,9 @@
 =======
         "HashCode": 235462745,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1842930796,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -966,6 +1038,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1506765537,
 =======
         "HashCode": 1017373372,
@@ -976,6 +1049,9 @@
 =======
         "HashCode": -1550585831,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1850353128,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -997,6 +1073,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 990971640,
 =======
         "HashCode": -999304389,
@@ -1007,6 +1084,9 @@
 =======
         "HashCode": 1256144143,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -57630599,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -1029,6 +1109,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -378578128,
 =======
         "HashCode": 1269859164,
@@ -1039,6 +1120,9 @@
 =======
         "HashCode": -589535359,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -46861421,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1110,6 +1194,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 767177362,
 =======
         "HashCode": -629608527,
@@ -1120,6 +1205,9 @@
 =======
         "HashCode": 1789327443,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 2019557605,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1192,6 +1280,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -863281064,
 =======
         "HashCode": 815562510,
@@ -1202,6 +1291,9 @@
 =======
         "HashCode": -1967913130,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -351540013,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1223,6 +1315,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 85441086,
 =======
         "HashCode": -369561927,
@@ -1233,6 +1326,9 @@
 =======
         "HashCode": 565399202,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -863214733,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1255,6 +1351,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -111656720,
 =======
         "HashCode": 1606391785,
@@ -1265,6 +1362,9 @@
 =======
         "HashCode": 1950777977,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2113105855,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1305,6 +1405,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -973196101,
 =======
         "HashCode": 804088071,
@@ -1315,6 +1416,9 @@
 =======
         "HashCode": 1057248083,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1618348659,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1356,6 +1460,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1773110180,
 =======
         "HashCode": -1451483820,
@@ -1366,6 +1471,9 @@
 =======
         "HashCode": -1960146571,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1400825101,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1406,6 +1514,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1920675129,
 =======
         "HashCode": 1701819128,
@@ -1416,6 +1525,9 @@
 =======
         "HashCode": -1104788109,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -900433393,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1457,6 +1569,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1575873804,
 =======
         "HashCode": -8430374,
@@ -1467,6 +1580,9 @@
 =======
         "HashCode": -278139019,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -778525098,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1488,6 +1604,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 2140700723,
 =======
         "HashCode": 1389323440,
@@ -1498,6 +1615,9 @@
 =======
         "HashCode": 2021537434,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1257419112,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1520,6 +1640,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1025554540,
 =======
         "HashCode": -1717758955,
@@ -1530,6 +1651,9 @@
 =======
         "HashCode": 1134969126,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -479806774,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1570,6 +1694,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1631177515,
 =======
         "HashCode": 1192024773,
@@ -1580,6 +1705,9 @@
 =======
         "HashCode": -90570180,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1841390114,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1621,6 +1749,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 700987946,
 =======
         "HashCode": 455314544,
@@ -1631,6 +1760,9 @@
 =======
         "HashCode": 524554132,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 398817936,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1732,6 +1864,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1236972800,
 =======
         "HashCode": 232772469,
@@ -1742,6 +1875,9 @@
 =======
         "HashCode": 1055315524,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 388275812,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1844,6 +1980,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -509537659,
 =======
         "HashCode": 1471240990,
@@ -1854,6 +1991,9 @@
 =======
         "HashCode": 789952072,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1910518012,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1872,6 +2012,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1885,6 +2026,9 @@
 =======
         "HashCode": -237066149,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -801601354,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1907,6 +2051,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 334856304,
 =======
         "HashCode": -1849819872,
@@ -1917,6 +2062,9 @@
 =======
         "HashCode": 1487075626,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 611814741,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1947,6 +2095,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1960,6 +2109,9 @@
 =======
         "HashCode": 1195488204,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -235002139,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1994,6 +2146,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1693825931,
 =======
         "HashCode": -413207295,
@@ -2004,6 +2157,9 @@
 =======
         "HashCode": 2014445969,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1995188149,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2025,6 +2181,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1578513976,
 =======
         "HashCode": 1072182549,
@@ -2035,6 +2192,9 @@
 =======
         "HashCode": 904663883,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1754353600,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -2057,6 +2217,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 986345490,
 =======
         "HashCode": -1824421136,
@@ -2067,6 +2228,9 @@
 =======
         "HashCode": -916030875,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1239826037,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -2086,6 +2250,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1689263305,
 =======
         "HashCode": -859148796,
@@ -2096,6 +2261,9 @@
 =======
         "HashCode": -2060599444,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 399420723,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -2116,6 +2284,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1391110692,
 =======
         "HashCode": -1723012861,
@@ -2126,6 +2295,9 @@
 =======
         "HashCode": -1419005372,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1516407127,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2224,6 +2396,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -851072271,
 =======
         "HashCode": 2088535415,
@@ -2234,6 +2407,9 @@
 =======
         "HashCode": -1665044218,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 250250265,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2333,6 +2509,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1080170157,
 =======
         "HashCode": -1756480663,
@@ -2343,6 +2520,9 @@
 =======
         "HashCode": -973529187,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 930887759,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2376,6 +2556,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 408497080,
 =======
         "HashCode": -830499144,
@@ -2386,6 +2567,9 @@
 =======
         "HashCode": 1080039111,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1769360434,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2420,6 +2604,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1018732924,
 =======
         "HashCode": 580834115,
@@ -2430,6 +2615,9 @@
 =======
         "HashCode": -1979911056,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2083745238,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2497,6 +2685,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -59414430,
 =======
         "HashCode": -3487769,
@@ -2507,6 +2696,9 @@
 =======
         "HashCode": -1033397830,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 98580650,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2575,6 +2767,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -710739810,
 =======
         "HashCode": 1466742804,
@@ -2585,6 +2778,9 @@
 =======
         "HashCode": 1826759264,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -406669651,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2686,6 +2882,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 682348257,
 =======
         "HashCode": 1452102004,
@@ -2696,6 +2893,9 @@
 =======
         "HashCode": 1491399097,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1838180696,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2798,6 +2998,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1596616151,
 =======
         "HashCode": -692064321,
@@ -2808,6 +3009,9 @@
 =======
         "HashCode": 280212430,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 356281542,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2848,6 +3052,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 2083276931,
 =======
         "HashCode": -964275970,
@@ -2858,6 +3063,9 @@
 =======
         "HashCode": 745266924,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -321813059,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2899,6 +3107,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -304900362,
 =======
         "HashCode": 423525542,
@@ -2909,6 +3118,9 @@
 =======
         "HashCode": -237313612,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 23270853,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3000,6 +3212,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 608456243,
 =======
         "HashCode": -589853080,
@@ -3010,6 +3223,9 @@
 =======
         "HashCode": 447259042,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1780316413,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3102,6 +3318,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -227839033,
 =======
         "HashCode": 1095293276,
@@ -3112,6 +3329,9 @@
 =======
         "HashCode": 977323184,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 697196591,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3173,6 +3393,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1115564886,
 =======
         "HashCode": 87298780,
@@ -3183,6 +3404,9 @@
 =======
         "HashCode": -1328835594,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 2029089324,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3245,6 +3469,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -336044914,
 =======
         "HashCode": -2109268669,
@@ -3255,6 +3480,9 @@
 =======
         "HashCode": 139417035,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1362323987,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3356,6 +3584,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1416531140,
 =======
         "HashCode": 1613116147,
@@ -3366,6 +3595,9 @@
 =======
         "HashCode": 990710665,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1167600659,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3468,6 +3700,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1636642883,
 =======
         "HashCode": 546293735,
@@ -3478,6 +3711,9 @@
 =======
         "HashCode": -437492692,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1931849717,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3499,6 +3735,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 447812270,
 =======
         "HashCode": 1289907745,
@@ -3509,6 +3746,9 @@
 =======
         "HashCode": -1426441020,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 101139854,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3531,6 +3771,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1071505308,
 =======
         "HashCode": -444981192,
@@ -3541,6 +3782,9 @@
 =======
         "HashCode": -756221226,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1502478326,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3633,6 +3877,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -380868903,
 =======
         "HashCode": -669267790,
@@ -3643,6 +3888,9 @@
 =======
         "HashCode": -425753273,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1439156422,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3736,6 +3984,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1198633883,
 =======
         "HashCode": 283332780,
@@ -3746,6 +3995,9 @@
 =======
         "HashCode": 2002044394,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1136622538,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3767,6 +4019,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 519300251,
 =======
         "HashCode": -2074939984,
@@ -3777,6 +4030,9 @@
 =======
         "HashCode": 424149984,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1156539805,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3799,6 +4055,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -998514939,
 =======
         "HashCode": 906048721,
@@ -3809,6 +4066,9 @@
 =======
         "HashCode": 511493157,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 483148173,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3876,6 +4136,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1467496302,
 =======
         "HashCode": -1134364126,
@@ -3886,6 +4147,9 @@
 =======
         "HashCode": -93429815,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1797078408,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3954,6 +4218,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2114983189,
 =======
         "HashCode": 69395673,
@@ -3964,6 +4229,9 @@
 =======
         "HashCode": 244533544,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 478665669,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4031,6 +4299,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 900061122,
 =======
         "HashCode": 1697281589,
@@ -4041,6 +4310,9 @@
 =======
         "HashCode": -1965813696,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1779189555,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4109,6 +4381,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1906370965,
 =======
         "HashCode": -688508739,
@@ -4119,6 +4392,9 @@
 =======
         "HashCode": 227646058,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 110659591,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4171,6 +4447,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 486998748,
 =======
         "HashCode": -1867840072,
@@ -4181,6 +4458,9 @@
 =======
         "HashCode": 1931543947,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -412774330,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4234,6 +4514,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1899442118,
 =======
         "HashCode": 184857366,
@@ -4244,6 +4525,9 @@
 =======
         "HashCode": -961088504,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1469550048,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4283,6 +4567,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -520602459,
 =======
         "HashCode": -1840568832,
@@ -4293,6 +4578,9 @@
 =======
         "HashCode": 690402652,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1698751909,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4333,6 +4621,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1324216723,
 =======
         "HashCode": 1310580870,
@@ -4343,6 +4632,9 @@
 =======
         "HashCode": -1307108209,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1130261350,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4382,6 +4674,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -756725983,
 =======
         "HashCode": 42760646,
@@ -4392,6 +4685,9 @@
 =======
         "HashCode": 1708424209,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -999087354,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4432,6 +4728,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 2034221536,
 =======
         "HashCode": 744147374,
@@ -4442,6 +4739,9 @@
 =======
         "HashCode": 1027512030,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1591995200,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4501,6 +4801,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1333226512,
 =======
         "HashCode": -144052934,
@@ -4511,6 +4812,9 @@
 =======
         "HashCode": -1759877985,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 451173283,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4571,6 +4875,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1630489159,
 =======
         "HashCode": -406947012,
@@ -4581,6 +4886,9 @@
 =======
         "HashCode": -1842975893,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -808168067,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4602,6 +4910,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1102686574,
 =======
         "HashCode": -395411476,
@@ -4612,6 +4921,9 @@
 =======
         "HashCode": -1410124842,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 169599432,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4634,6 +4946,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 2026686279,
 =======
         "HashCode": -1402407082,
@@ -4644,6 +4957,9 @@
 =======
         "HashCode": -377369616,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1625763335,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4675,6 +4991,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -295519647,
 =======
         "HashCode": 1730511638,
@@ -4685,6 +5002,9 @@
 =======
         "HashCode": 1974088171,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -41338971,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4717,6 +5037,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 981378113,
 =======
         "HashCode": 1824079982,
@@ -4727,6 +5048,9 @@
 =======
         "HashCode": -225680002,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1052494173,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4748,6 +5072,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1367125799,
 =======
         "HashCode": -2135923448,
@@ -4758,6 +5083,9 @@
 =======
         "HashCode": 1550522442,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -149057330,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4780,6 +5108,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 235244581,
 =======
         "HashCode": 1913316704,
@@ -4790,6 +5119,9 @@
 =======
         "HashCode": 1735919738,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 453538381,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4809,6 +5141,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -943125030,
 =======
         "HashCode": 1460559180,
@@ -4819,6 +5152,9 @@
 =======
         "HashCode": -1338390375,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1605311246,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4839,6 +5175,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2012475192,
 =======
         "HashCode": -483584582,
@@ -4849,6 +5186,9 @@
 =======
         "HashCode": -1158686,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1964211515,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4880,6 +5220,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1550200387,
 =======
         "HashCode": 363535299,
@@ -4890,6 +5231,9 @@
 =======
         "HashCode": -1064568874,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1448269008,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4922,6 +5266,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -211078791,
 =======
         "HashCode": 763151992,
@@ -4932,6 +5277,9 @@
 =======
         "HashCode": -298537387,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 587400762,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4953,6 +5301,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1369946221,
 =======
         "HashCode": -1173952241,
@@ -4963,6 +5312,9 @@
 =======
         "HashCode": 1803346736,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -865287259,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4985,6 +5337,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1771334383,
 =======
         "HashCode": -1466007080,
@@ -4995,6 +5348,9 @@
 =======
         "HashCode": 1759400596,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1376915388,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5055,6 +5411,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1307690553,
 =======
         "HashCode": -341025063,
@@ -5065,6 +5422,9 @@
 =======
         "HashCode": 684202638,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 619102608,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5126,6 +5486,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1837052273,
 =======
         "HashCode": 70722850,
@@ -5136,6 +5497,9 @@
 =======
         "HashCode": 43288200,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -854050677,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5154,6 +5518,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5167,6 +5532,9 @@
 =======
         "HashCode": 1231297978,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1803028563,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5189,6 +5557,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 698079872,
 =======
         "HashCode": -695934590,
@@ -5199,6 +5568,9 @@
 =======
         "HashCode": 1790295307,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -354053222,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5232,6 +5604,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1366706600,
 =======
         "HashCode": 372643770,
@@ -5242,6 +5615,9 @@
 =======
         "HashCode": -2071325925,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2140668469,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5276,6 +5652,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -375879682,
 =======
         "HashCode": 745077032,
@@ -5286,6 +5663,9 @@
 =======
         "HashCode": 1333497148,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1811824463,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5400,6 +5780,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1033580171,
 =======
         "HashCode": 660572471,
@@ -5410,6 +5791,9 @@
 =======
         "HashCode": 1195767094,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1934953109,
+>>>>>>> confirmar todo
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5525,6 +5909,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1544997100,
 =======
         "HashCode": 1601997531,
@@ -5535,6 +5920,9 @@
 =======
         "HashCode": 1643937416,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -337331334,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5565,6 +5953,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5578,6 +5967,9 @@
 =======
         "HashCode": -238719785,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -366433935,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5612,6 +6004,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1478543714,
 =======
         "HashCode": 2047817292,
@@ -5622,6 +6015,9 @@
 =======
         "HashCode": -277120301,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1328639618,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5652,6 +6048,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5665,6 +6062,9 @@
 =======
         "HashCode": 1503614547,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1236353472,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5699,6 +6099,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1148319766,
 =======
         "HashCode": 1142465672,
@@ -5709,6 +6110,9 @@
 =======
         "HashCode": -1828608330,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 926139105,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5742,6 +6146,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1739559464,
 =======
         "HashCode": -551568914,
@@ -5752,6 +6157,9 @@
 =======
         "HashCode": -1435576934,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -540560433,
+>>>>>>> confirmar todo
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5786,6 +6194,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2011844753,
 =======
         "HashCode": -1715044588,
@@ -5796,6 +6205,9 @@
 =======
         "HashCode": 928735576,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1762791751,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5879,6 +6291,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 2102402975,
 =======
         "HashCode": -1600173918,
@@ -5889,6 +6302,9 @@
 =======
         "HashCode": -920013838,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1998458925,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5972,6 +6388,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 956053471,
 =======
         "HashCode": 1503889512,
@@ -5982,6 +6399,9 @@
 =======
         "HashCode": -2002070110,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1313826388,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6065,6 +6485,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -206462130,
 =======
         "HashCode": -214516284,
@@ -6075,6 +6496,9 @@
 =======
         "HashCode": -1636500540,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 2126692614,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6158,6 +6582,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 966065363,
 =======
         "HashCode": 570935715,
@@ -6168,6 +6593,9 @@
 =======
         "HashCode": 122459495,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1852944625,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6251,6 +6679,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 632870633,
 =======
         "HashCode": 1924609848,
@@ -6261,6 +6690,9 @@
 =======
         "HashCode": -1535224961,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1945715824,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6344,6 +6776,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1237115170,
 =======
         "HashCode": 689274964,
@@ -6354,6 +6787,9 @@
 =======
         "HashCode": -2123616088,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1974613889,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6437,6 +6873,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 267900017,
 =======
         "HashCode": 958669138,
@@ -6447,6 +6884,9 @@
 =======
         "HashCode": -591045822,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1233325368,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6530,6 +6970,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1448613319,
 =======
         "HashCode": -2113606834,
@@ -6540,6 +6981,9 @@
 =======
         "HashCode": -184821622,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1487468854,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6623,6 +7067,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1681965927,
 =======
         "HashCode": 65303871,
@@ -6633,6 +7078,9 @@
 =======
         "HashCode": -1167566590,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1133819825,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6716,6 +7164,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -462371020,
 =======
         "HashCode": -1464622644,
@@ -6726,6 +7175,9 @@
 =======
         "HashCode": -1692828534,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1516065945,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6809,6 +7261,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -687811742,
 =======
         "HashCode": 1926593467,
@@ -6819,6 +7272,9 @@
 =======
         "HashCode": 1508708751,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1099147961,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6902,6 +7358,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1491274389,
 =======
         "HashCode": -486100770,
@@ -6912,6 +7369,9 @@
 =======
         "HashCode": 1726780980,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 49833819,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6995,6 +7455,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 852873619,
 =======
         "HashCode": 786826405,
@@ -7005,6 +7466,9 @@
 =======
         "HashCode": -1572439338,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 2127380463,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7088,6 +7552,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1958134219,
 =======
         "HashCode": -67945345,
@@ -7098,6 +7563,9 @@
 =======
         "HashCode": -478192606,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1440669362,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7181,6 +7649,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 631403892,
 =======
         "HashCode": -1403384037,
@@ -7191,6 +7660,9 @@
 =======
         "HashCode": 1701113126,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1475912897,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7274,6 +7746,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -474367580,
 =======
         "HashCode": -1843830264,
@@ -7284,6 +7757,9 @@
 =======
         "HashCode": -1680176964,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1325921171,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7367,6 +7843,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1768542355,
 =======
         "HashCode": 595720144,
@@ -7377,6 +7854,9 @@
 =======
         "HashCode": 1083374051,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1121522377,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7460,6 +7940,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1825429060,
 =======
         "HashCode": -1383357514,
@@ -7470,6 +7951,9 @@
 =======
         "HashCode": 1391764469,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1064127080,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7553,6 +8037,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -976807084,
 =======
         "HashCode": 1292212504,
@@ -7563,6 +8048,9 @@
 =======
         "HashCode": 934999426,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1892720187,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7646,6 +8134,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1901472296,
 =======
         "HashCode": -1927163002,
@@ -7656,6 +8145,9 @@
 =======
         "HashCode": 859010995,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1454074150,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7739,6 +8231,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1505444497,
 =======
         "HashCode": 764667195,
@@ -7749,6 +8242,9 @@
 =======
         "HashCode": -1087256920,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 9933445,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7832,6 +8328,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1983178979,
 =======
         "HashCode": 663142664,
@@ -7842,6 +8339,9 @@
 =======
         "HashCode": 169602638,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1680841590,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7925,6 +8425,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1310147552,
 =======
         "HashCode": 912118739,
@@ -7935,6 +8436,9 @@
 =======
         "HashCode": 1037286968,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 231192430,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8018,6 +8522,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1755807185,
 =======
         "HashCode": 929349923,
@@ -8028,6 +8533,9 @@
 =======
         "HashCode": 1355992627,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 103500282,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8111,6 +8619,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 413108940,
 =======
         "HashCode": -1591617516,
@@ -8121,6 +8630,9 @@
 =======
         "HashCode": -2119557101,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -727102148,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8204,6 +8716,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 345007707,
 =======
         "HashCode": -1506044299,
@@ -8214,6 +8727,9 @@
 =======
         "HashCode": 657312872,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 497104432,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8297,6 +8813,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1798793070,
 =======
         "HashCode": 894492117,
@@ -8307,6 +8824,9 @@
 =======
         "HashCode": -2126705761,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -429444881,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8390,6 +8910,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -675785357,
 =======
         "HashCode": 730200953,
@@ -8400,6 +8921,9 @@
 =======
         "HashCode": -676032132,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 786635107,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8483,6 +9007,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1098470090,
 =======
         "HashCode": -1852855285,
@@ -8493,6 +9018,9 @@
 =======
         "HashCode": 705706420,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -415260687,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8576,6 +9104,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 767441526,
 =======
         "HashCode": -115590672,
@@ -8586,6 +9115,9 @@
 =======
         "HashCode": 1674283715,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 534973666,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8669,6 +9201,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -948371598,
 =======
         "HashCode": -1524320533,
@@ -8679,6 +9212,9 @@
 =======
         "HashCode": 1554947892,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -143473170,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8762,6 +9298,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1867597415,
 =======
         "HashCode": 412916322,
@@ -8772,6 +9309,9 @@
 =======
         "HashCode": 2139359013,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1440503728,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8855,6 +9395,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 686079730,
 =======
         "HashCode": 1469861837,
@@ -8865,6 +9406,9 @@
 =======
         "HashCode": -1115622201,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1966513856,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8948,6 +9492,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1948723870,
 =======
         "HashCode": 1257254153,
@@ -8958,6 +9503,9 @@
 =======
         "HashCode": -1828136809,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -814745569,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9041,6 +9589,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1320009365,
 =======
         "HashCode": -1825196501,
@@ -9051,6 +9600,9 @@
 =======
         "HashCode": 304202430,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 588224745,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9134,6 +9686,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 381778604,
 =======
         "HashCode": -1731509520,
@@ -9144,6 +9697,9 @@
 =======
         "HashCode": -1000363390,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2061572621,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9227,6 +9783,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1280908884,
 =======
         "HashCode": -429012948,
@@ -9237,6 +9794,9 @@
 =======
         "HashCode": 700504855,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 854323849,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9320,6 +9880,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -288222577,
 =======
         "HashCode": 2036680429,
@@ -9330,6 +9891,9 @@
 =======
         "HashCode": 1593357272,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1543839092,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9413,6 +9977,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -832384231,
 =======
         "HashCode": -1633986356,
@@ -9423,6 +9988,9 @@
 =======
         "HashCode": 1897965166,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1216373136,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9506,6 +10074,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 747472845,
 =======
         "HashCode": -2009396374,
@@ -9516,6 +10085,9 @@
 =======
         "HashCode": 1908960478,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1456521059,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9599,6 +10171,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 452129023,
 =======
         "HashCode": 2092811318,
@@ -9609,6 +10182,9 @@
 =======
         "HashCode": 1964128262,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1924839913,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9692,6 +10268,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 446227738,
 =======
         "HashCode": 101520029,
@@ -9702,6 +10279,9 @@
 =======
         "HashCode": -771602386,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1857988452,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9785,6 +10365,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1303132645,
 =======
         "HashCode": -2051997834,
@@ -9795,6 +10376,9 @@
 =======
         "HashCode": 1543964624,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2064515743,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9878,6 +10462,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 343913565,
 =======
         "HashCode": 698671206,
@@ -9888,6 +10473,9 @@
 =======
         "HashCode": -1730804761,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1104297209,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9971,6 +10559,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 768939192,
 =======
         "HashCode": -354486091,
@@ -9981,6 +10570,9 @@
 =======
         "HashCode": -389732698,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1932125356,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10064,6 +10656,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 621605076,
 =======
         "HashCode": 131913816,
@@ -10074,6 +10667,9 @@
 =======
         "HashCode": -1997941788,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 152138270,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10157,6 +10753,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 255005522,
 =======
         "HashCode": 2037598827,
@@ -10167,6 +10764,9 @@
 =======
         "HashCode": -1044835900,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1581729791,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10250,6 +10850,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1391441285,
 =======
         "HashCode": 595749769,
@@ -10260,6 +10861,9 @@
 =======
         "HashCode": -63126753,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1419598582,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10343,6 +10947,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1919130571,
 =======
         "HashCode": 1406194826,
@@ -10353,6 +10958,9 @@
 =======
         "HashCode": 203549978,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 527006499,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10436,6 +11044,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1144206224,
 =======
         "HashCode": 2024841149,
@@ -10446,6 +11055,9 @@
 =======
         "HashCode": 1987837254,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -749734916,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10529,6 +11141,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1174820290,
 =======
         "HashCode": -1859408235,
@@ -10539,6 +11152,9 @@
 =======
         "HashCode": 409053424,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 709267629,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10622,6 +11238,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2065217590,
 =======
         "HashCode": -1470820567,
@@ -10632,6 +11249,9 @@
 =======
         "HashCode": -538181513,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1439814163,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10715,6 +11335,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 896269210,
 =======
         "HashCode": -1356869080,
@@ -10725,6 +11346,9 @@
 =======
         "HashCode": 1095789679,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1472602886,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10808,6 +11432,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1331947492,
 =======
         "HashCode": -374818805,
@@ -10818,6 +11443,9 @@
 =======
         "HashCode": 1541711131,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -920354124,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10901,6 +11529,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1625413628,
 =======
         "HashCode": 1471397906,
@@ -10911,6 +11540,9 @@
 =======
         "HashCode": 436382836,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 803304911,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10994,6 +11626,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1414933602,
 =======
         "HashCode": 2135640617,
@@ -11004,6 +11637,9 @@
 =======
         "HashCode": -1497097655,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1069075194,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11087,6 +11723,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1708608919,
 =======
         "HashCode": 639676387,
@@ -11097,6 +11734,9 @@
 =======
         "HashCode": 1361025206,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1157153677,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11180,6 +11820,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -839651515,
 =======
         "HashCode": -1578835336,
@@ -11190,6 +11831,9 @@
 =======
         "HashCode": -966104614,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1782995969,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11273,6 +11917,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1941607682,
 =======
         "HashCode": -484172557,
@@ -11283,6 +11928,9 @@
 =======
         "HashCode": 620917250,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1818745407,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11366,6 +12014,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1995951893,
 =======
         "HashCode": 1856698498,
@@ -11376,6 +12025,9 @@
 =======
         "HashCode": -1462007817,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1806018839,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11459,6 +12111,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1844388364,
 =======
         "HashCode": 183653215,
@@ -11469,6 +12122,9 @@
 =======
         "HashCode": -1239083915,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -616513693,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11552,6 +12208,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -465122871,
 =======
         "HashCode": 810970140,
@@ -11562,6 +12219,9 @@
 =======
         "HashCode": -670764010,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 113391448,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11645,6 +12305,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -592478574,
 =======
         "HashCode": -303407930,
@@ -11655,6 +12316,9 @@
 =======
         "HashCode": -737233455,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 342982430,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11738,6 +12402,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1836050296,
 =======
         "HashCode": -1594205608,
@@ -11748,6 +12413,9 @@
 =======
         "HashCode": -79899367,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 178006931,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11831,6 +12499,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1272463623,
 =======
         "HashCode": -2130024090,
@@ -11841,6 +12510,9 @@
 =======
         "HashCode": -1001491679,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1671001637,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11924,6 +12596,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1866822573,
 =======
         "HashCode": 1295639009,
@@ -11934,6 +12607,9 @@
 =======
         "HashCode": -1478872763,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 512068927,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12017,6 +12693,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -897417724,
 =======
         "HashCode": -1637009818,
@@ -12027,6 +12704,9 @@
 =======
         "HashCode": -1742963486,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -177652749,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12110,6 +12790,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -364622829,
 =======
         "HashCode": -655109753,
@@ -12120,6 +12801,9 @@
 =======
         "HashCode": -479136862,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 474888198,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12203,6 +12887,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -155892153,
 =======
         "HashCode": 809792790,
@@ -12213,6 +12898,9 @@
 =======
         "HashCode": 1393955388,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1997966782,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12296,6 +12984,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -823494998,
 =======
         "HashCode": -1419468161,
@@ -12306,6 +12995,9 @@
 =======
         "HashCode": 1500495911,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -28832402,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12389,6 +13081,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 907077467,
 =======
         "HashCode": 778739981,
@@ -12399,6 +13092,9 @@
 =======
         "HashCode": 1956894526,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1802829055,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12482,6 +13178,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 525127786,
 =======
         "HashCode": 749404749,
@@ -12492,6 +13189,9 @@
 =======
         "HashCode": 1475005599,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 999409656,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12575,6 +13275,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1660321740,
 =======
         "HashCode": 177868695,
@@ -12585,6 +13286,9 @@
 =======
         "HashCode": -1413864004,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1671235539,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12668,6 +13372,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2034707112,
 =======
         "HashCode": -1391397275,
@@ -12678,6 +13383,9 @@
 =======
         "HashCode": 1787986183,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 751440388,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12761,6 +13469,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2021297958,
 =======
         "HashCode": 1371955419,
@@ -12771,6 +13480,9 @@
 =======
         "HashCode": 493023926,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1839202521,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12854,6 +13566,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -845153691,
 =======
         "HashCode": -1965246475,
@@ -12864,6 +13577,9 @@
 =======
         "HashCode": 2103589891,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 500368398,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12947,6 +13663,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -938084049,
 =======
         "HashCode": 1547887902,
@@ -12957,6 +13674,9 @@
 =======
         "HashCode": 327402524,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1003204485,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13040,6 +13760,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -372628553,
 =======
         "HashCode": 48068579,
@@ -13050,6 +13771,9 @@
 =======
         "HashCode": -2126053269,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 765285474,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13133,6 +13857,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1748600458,
 =======
         "HashCode": -2059593149,
@@ -13143,6 +13868,9 @@
 =======
         "HashCode": -1479973072,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -819868924,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13226,6 +13954,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1739464738,
 =======
         "HashCode": -1877749000,
@@ -13236,6 +13965,9 @@
 =======
         "HashCode": 1025758449,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 592902763,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13319,6 +14051,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1393196507,
 =======
         "HashCode": 234814317,
@@ -13329,6 +14062,9 @@
 =======
         "HashCode": -1708483509,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 871876621,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13412,6 +14148,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2008259049,
 =======
         "HashCode": 204705153,
@@ -13422,6 +14159,9 @@
 =======
         "HashCode": -153907984,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 445080195,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13505,6 +14245,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1422041576,
 =======
         "HashCode": 1874973128,
@@ -13515,6 +14256,9 @@
 =======
         "HashCode": 1794223531,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1497025260,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13598,6 +14342,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -841722457,
 =======
         "HashCode": 996447053,
@@ -13608,6 +14353,9 @@
 =======
         "HashCode": 1220072890,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1302209740,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13691,6 +14439,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 315147855,
 =======
         "HashCode": -172994921,
@@ -13701,6 +14450,9 @@
 =======
         "HashCode": -367753275,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1748402550,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13784,6 +14536,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1783116491,
 =======
         "HashCode": -1899134841,
@@ -13794,6 +14547,9 @@
 =======
         "HashCode": 330963441,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 905998432,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13877,6 +14633,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 217807528,
 =======
         "HashCode": -233882380,
@@ -13887,6 +14644,9 @@
 =======
         "HashCode": 1420874907,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 137648021,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13970,6 +14730,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -202034697,
 =======
         "HashCode": 2029577466,
@@ -13980,6 +14741,9 @@
 =======
         "HashCode": 7621040,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1310635821,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14063,6 +14827,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 47521497,
 =======
         "HashCode": 1114590844,
@@ -14073,6 +14838,9 @@
 =======
         "HashCode": -1246915541,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1124095001,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14156,6 +14924,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -820514857,
 =======
         "HashCode": 761297257,
@@ -14166,6 +14935,9 @@
 =======
         "HashCode": 1239794628,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 951183628,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14249,6 +15021,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1461651622,
 =======
         "HashCode": 1366348849,
@@ -14259,6 +15032,9 @@
 =======
         "HashCode": 880626947,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 612107607,
+>>>>>>> confirmar todo
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14342,6 +15118,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2144232625,
 =======
         "HashCode": -471574400,
@@ -14352,6 +15129,9 @@
 =======
         "HashCode": 805485491,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1062063023,
+>>>>>>> confirmar todo
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -14393,6 +15173,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1821282571,
 =======
         "HashCode": 1738461547,
@@ -14403,6 +15184,9 @@
 =======
         "HashCode": 596533033,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1941477796,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -14720,6 +15504,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -562138746,
 =======
         "HashCode": 842367411,
@@ -14730,6 +15515,9 @@
 =======
         "HashCode": 819553994,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2135285771,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14929,6 +15717,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 958495831,
 =======
         "HashCode": -393635323,
@@ -14939,6 +15728,9 @@
 =======
         "HashCode": 1368682030,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 76702127,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15068,6 +15860,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 337968461,
 =======
         "HashCode": -404089371,
@@ -15078,6 +15871,9 @@
 =======
         "HashCode": -564798590,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -865670551,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15135,6 +15931,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1633640392,
 =======
         "HashCode": 1379560322,
@@ -15145,6 +15942,9 @@
 =======
         "HashCode": 837356140,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 959157710,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15279,6 +16079,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1478688272,
 =======
         "HashCode": -2099693264,
@@ -15289,6 +16090,9 @@
 =======
         "HashCode": -500198351,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1013059411,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15337,6 +16141,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 172889390,
 =======
         "HashCode": -1059808083,
@@ -15347,6 +16152,9 @@
 =======
         "HashCode": -1983845479,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 2000853344,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15766,6 +16574,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1802125351,
 =======
         "HashCode": 2117665757,
@@ -15776,6 +16585,9 @@
 =======
         "HashCode": 1350352996,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1348609931,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15880,6 +16692,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -273271019,
 =======
         "HashCode": 829804006,
@@ -15890,6 +16703,9 @@
 =======
         "HashCode": 1880818706,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1565631523,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15938,6 +16754,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 655451354,
 =======
         "HashCode": -276476202,
@@ -15948,6 +16765,9 @@
 =======
         "HashCode": -980038849,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1947412679,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16020,6 +16840,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1152432577,
 =======
         "HashCode": 2977276,
@@ -16030,6 +16851,9 @@
 =======
         "HashCode": 967066045,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -3357991,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16065,6 +16889,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1041124980,
 =======
         "HashCode": -747540382,
@@ -16075,6 +16900,9 @@
 =======
         "HashCode": 993967589,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -791264577,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16273,6 +17101,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1228302221,
 =======
         "HashCode": -768663058,
@@ -16283,6 +17112,9 @@
 =======
         "HashCode": -1917175977,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1437792108,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16313,6 +17145,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 660484196,
 =======
         "HashCode": -1984518884,
@@ -16323,6 +17156,9 @@
 =======
         "HashCode": 808718525,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -339114233,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16406,6 +17242,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1876648918,
 =======
         "HashCode": 1515564804,
@@ -16416,6 +17253,9 @@
 =======
         "HashCode": 2019923150,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -472693422,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16447,6 +17287,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -418683632,
 =======
         "HashCode": -2064208012,
@@ -16457,6 +17298,9 @@
 =======
         "HashCode": -1290515005,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -416233794,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16612,6 +17456,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1815828361,
 =======
         "HashCode": -535542023,
@@ -16622,6 +17467,9 @@
 =======
         "HashCode": 1899176612,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 886672457,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16683,6 +17531,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1399314298,
 =======
         "HashCode": -2014261584,
@@ -16693,6 +17542,9 @@
 =======
         "HashCode": 1614087214,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -659698539,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16737,6 +17589,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1647011832,
 =======
         "HashCode": 186996943,
@@ -16747,6 +17600,9 @@
 =======
         "HashCode": -467808066,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -359895260,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16782,6 +17638,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1559403709,
 =======
         "HashCode": -2134481193,
@@ -16792,6 +17649,9 @@
 =======
         "HashCode": -1308483540,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 646995626,
+>>>>>>> confirmar todo
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -16828,6 +17688,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1006815858,
 =======
         "HashCode": 1138803742,
@@ -16838,6 +17699,9 @@
 =======
         "HashCode": 1962252187,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -976344899,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16909,6 +17773,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 732811484,
 =======
         "HashCode": 60778248,
@@ -16919,6 +17784,9 @@
 =======
         "HashCode": -570010811,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1012822695,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16999,6 +17867,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1078112717,
 =======
         "HashCode": -1642189735,
@@ -17009,6 +17878,9 @@
 =======
         "HashCode": -734011691,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1914107714,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17089,6 +17961,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -524467976,
 =======
         "HashCode": -1580559472,
@@ -17099,6 +17972,9 @@
 =======
         "HashCode": 1879255472,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2022214472,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17185,6 +18061,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 717011948,
 =======
         "HashCode": 1683035402,
@@ -17195,6 +18072,9 @@
 =======
         "HashCode": 1882446460,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2070142058,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17281,6 +18161,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -831472666,
 =======
         "HashCode": 936113687,
@@ -17291,6 +18172,9 @@
 =======
         "HashCode": -428623428,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -627667631,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17374,6 +18258,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17387,6 +18272,9 @@
 =======
         "HashCode": -1099743529,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2053832649,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17473,6 +18361,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1937619568,
 =======
         "HashCode": 338020107,
@@ -17483,6 +18372,9 @@
 =======
         "HashCode": 695415068,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1824924105,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17566,6 +18458,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17579,6 +18472,9 @@
 =======
         "HashCode": 1029022681,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -363411138,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17665,6 +18561,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 222094449,
 =======
         "HashCode": -1282557289,
@@ -17675,6 +18572,9 @@
 =======
         "HashCode": 1490962554,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -157746172,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17758,6 +18658,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17771,6 +18672,9 @@
 =======
         "HashCode": 1679964411,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -775681267,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17857,6 +18761,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1312099325,
 =======
         "HashCode": -1507718631,
@@ -17867,6 +18772,9 @@
 =======
         "HashCode": -1900691497,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 884158682,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17950,6 +18858,7 @@
         }
       },
       {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -17963,6 +18872,9 @@
 =======
         "HashCode": 123182206,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 914755404,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18049,6 +18961,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -732539417,
 =======
         "HashCode": -391199045,
@@ -18059,6 +18972,9 @@
 =======
         "HashCode": 1370956750,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1390494673,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18145,6 +19061,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 603053338,
 =======
         "HashCode": 1451964503,
@@ -18155,6 +19072,9 @@
 =======
         "HashCode": 1340595891,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 398753147,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18241,6 +19161,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1973525759,
 =======
         "HashCode": -1071761255,
@@ -18251,6 +19172,9 @@
 =======
         "HashCode": -782394480,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1252041838,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18331,6 +19255,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 714088275,
 =======
         "HashCode": 558670720,
@@ -18341,6 +19266,9 @@
 =======
         "HashCode": -396433731,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 626808727,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18421,6 +19349,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1839990477,
 =======
         "HashCode": 1990316802,
@@ -18431,6 +19360,9 @@
 =======
         "HashCode": 1286475594,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1786253891,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18474,6 +19406,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -2047170997,
 =======
         "HashCode": -302537244,
@@ -18484,6 +19417,9 @@
 =======
         "HashCode": -1570010601,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1217926292,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18528,6 +19464,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1592104034,
 =======
         "HashCode": 1063744811,
@@ -18538,6 +19475,9 @@
 =======
         "HashCode": 1206837686,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1099635261,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18581,6 +19521,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1558733001,
 =======
         "HashCode": 131590402,
@@ -18591,6 +19532,9 @@
 =======
         "HashCode": -244499894,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1792189747,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18635,6 +19579,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1590286923,
 =======
         "HashCode": 65287699,
@@ -18645,6 +19590,9 @@
 =======
         "HashCode": 1557065766,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1520364518,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18688,6 +19636,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1094549663,
 =======
         "HashCode": 61664043,
@@ -18698,6 +19647,9 @@
 =======
         "HashCode": 1438294953,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1922583006,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18742,6 +19694,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 1833554189,
 =======
         "HashCode": 1510238008,
@@ -18752,6 +19705,9 @@
 =======
         "HashCode": -1323966204,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 1257139452,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18795,6 +19751,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 461264975,
 =======
         "HashCode": 916924635,
@@ -18805,6 +19762,9 @@
 =======
         "HashCode": -983798837,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -674683310,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18849,6 +19809,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1229491919,
 =======
         "HashCode": -646392690,
@@ -18859,6 +19820,9 @@
 =======
         "HashCode": 1181624736,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1990092834,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18902,6 +19866,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -676792332,
 =======
         "HashCode": -1808957854,
@@ -18912,6 +19877,9 @@
 =======
         "HashCode": -1942988234,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1069223644,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18956,6 +19924,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 962495690,
 =======
         "HashCode": -1688348601,
@@ -18966,6 +19935,9 @@
 =======
         "HashCode": 135539131,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -1168405342,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19009,6 +19981,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -421988799,
 =======
         "HashCode": -495497259,
@@ -19019,6 +19992,9 @@
 =======
         "HashCode": 76117360,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 455523959,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19063,6 +20039,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1261512390,
 =======
         "HashCode": -2024107831,
@@ -19073,6 +20050,9 @@
 =======
         "HashCode": -2026578834,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2093833242,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19116,6 +20096,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 430509506,
 =======
         "HashCode": 80385410,
@@ -19126,6 +20107,9 @@
 =======
         "HashCode": -951443233,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -17593046,
+>>>>>>> confirmar todo
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19170,6 +20154,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": 339790635,
 =======
         "HashCode": -1355826297,
@@ -19180,6 +20165,9 @@
 =======
         "HashCode": 1461635569,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": -2098130646,
+>>>>>>> confirmar todo
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19221,6 +20209,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "HashCode": -1041110640,
 =======
         "HashCode": -1459563562,
@@ -19231,6 +20220,9 @@
 =======
         "HashCode": 188487360,
 >>>>>>> cambios 10 am
+=======
+        "HashCode": 915814748,
+>>>>>>> confirmar todo
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19274,6 +20266,7 @@
   "RootNamespace": "webcuidadop.App.frontend",
   "Documents": [
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/consultaBasica.cshtml",
@@ -19358,6 +20351,15 @@
 =======
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+=======
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/visitas.cshtml",
+      "TargetPath": "Pages\\Opciones\\visitas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/historias.cshtml",
+      "TargetPath": "Pages\\Opciones\\historias.cshtml",
+>>>>>>> confirmar todo
       "FileKind": "mvc"
     },
     {
@@ -19366,11 +20368,12 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/consultaCompleta.cshtml",
+      "TargetPath": "Pages\\Opciones\\consultaCompleta.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/historias.cshtml",
       "TargetPath": "Pages\\Opciones\\historias.cshtml",
 >>>>>>> cambios 10 am
@@ -19437,27 +20440,20 @@
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/cuidados.cshtml",
       "TargetPath": "Pages\\Opciones\\cuidados.cshtml",
 >>>>>>> cambios 10 am
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/registroprop.cshtml",
-      "TargetPath": "Pages\\Opciones\\registroprop.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-<<<<<<< HEAD
+=======
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
->>>>>>> otro cambio 9-50
-=======
-      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
->>>>>>> cambios 10 am
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/consultaBasica.cshtml",
+      "TargetPath": "Pages\\Opciones\\consultaBasica.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+>>>>>>> confirmar todo
       "FileKind": "mvc"
     },
     {
@@ -19466,21 +20462,48 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+>>>>>>> otro cambio 9-50
+=======
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+>>>>>>> cambios 10 am
+=======
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/cuidados.cshtml",
+      "TargetPath": "Pages\\Opciones\\cuidados.cshtml",
+>>>>>>> confirmar todo
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/registroprop.cshtml",
+      "TargetPath": "Pages\\Opciones\\registroprop.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/integrantes.cshtml",
       "TargetPath": "Pages\\Opciones\\integrantes.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/visitas.cshtml",
-      "TargetPath": "Pages\\Opciones\\visitas.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/consultaCompleta.cshtml",
-      "TargetPath": "Pages\\Opciones\\consultaCompleta.cshtml",
-      "FileKind": "mvc"
-    },
-    {
+<<<<<<< HEAD
 <<<<<<< HEAD
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/consultaCompleta.cshtml",
       "TargetPath": "Pages\\Opciones\\consultaCompleta.cshtml",
@@ -19499,6 +20522,15 @@
       "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
 >>>>>>> cambios 10 am
+=======
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/fampincastane/webcuidadop/webcuidadop.App/webcuidadop.App.frontend/Pages/Opciones/registroc.cshtml",
+      "TargetPath": "Pages\\Opciones\\registroc.cshtml",
+>>>>>>> confirmar todo
       "FileKind": "mvc"
     }
   ],
